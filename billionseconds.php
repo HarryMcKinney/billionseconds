@@ -1,21 +1,21 @@
 <!--
 ********************************************************************
-****															                              ****
-****	This file is an entire website that has been posted     	****
-****	at the request of a client for a pending job contract   	****
-****														                              	****
-****	All content has been written by: Harry McKinney		      	****
-****	All software licenses are owned by: McKinney Media		    ****
-****														                              	****
-****	The name of the website is :						                	****
-****	for the company (or person) :						                	****
-****															                              ****
-****	Thanks for your interest, Please contact 			            ****
-****	McKinney Media or Harry McKinney with any questions		    ****
-****														                                ****
-****	All Database passwords and names have been hashed out	    ****
-****	or edited for security reasons						                ****
-****														                              	****
+****															                              
+****	This file is an entire website that has been posted     	
+****	at the request of a client for a pending job contract   	
+****														                              	
+****	All content has been written by: Harry McKinney		      	
+****	All software licenses are owned by: McKinney Media		    
+****														                              	
+****	The name of the website is :						                	
+****	for the company (or person) :						                	
+****															                              
+****	Thanks for your interest, Please contact 			            
+****	McKinney Media or Harry McKinney with any questions		    
+****														                                
+****	All Database passwords and names have been hashed out	    
+****	or edited for security reasons						                
+****														                              	
 ******************************************************************** -->  
 
 
